@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PS": "u114csc0035",
+    "JWT_KEY": "secret_password_umar"
+  }
+}
